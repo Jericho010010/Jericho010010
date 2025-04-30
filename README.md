@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">Tool & Technologies</h2>
+<h2 align="center">Tools & Technologies</h2>
 
 ###
 
