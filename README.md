@@ -1,4 +1,4 @@
-<h1 align="left">Betty Either</h1>
+<h1 align="left">Hi I am, Jericho</h1>
 
 ###
 
